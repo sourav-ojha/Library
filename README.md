@@ -1,2 +1,3 @@
 # NewProject
-MERN (a to z)
+Library project
+collection of books can be uploaded 
