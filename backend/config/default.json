@@ -1,0 +1,8 @@
+
+
+{
+    "mongoURI":
+      "mongodb+srv://admin:9861593360@cluster0.iroxh.mongodb.net/test?retryWrites=true&w=majority"
+  }
+
+
